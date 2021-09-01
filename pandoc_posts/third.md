@@ -16,3 +16,5 @@ tags:
 ## A Post written in Pandoc's Markdown
 
 This is Pandoc [@macfarlane2013]
+
+![An image](figures/think.png)
